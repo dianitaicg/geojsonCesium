@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-      "Elev_in_m" : 0,
+      "Elev_in_m" : 20,
       "altura" : 20
       },
       "geometry": {
